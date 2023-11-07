@@ -1,5 +1,5 @@
 title: Muhammad Nurudeen Yekini
-logo: /Assets/img/mainpain.jpg
+logo: ./Assets/img/mainpic.jpg
 description: Python (BOT) Engineer || machine Learning Engineer||Data Analyst
 show_downloads: true
 theme: jekyll-theme-minimal
