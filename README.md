@@ -43,7 +43,6 @@
 - Researched, learned, and used technology, including open-source solutions and online communities.
 
 
-
 ## Skills
 - **Programming Languages:** Python, SQL
 - **Libraries/Frameworks:** Django, Flask, FastAPI, Selenium, Pandas, Numpy, Matplotlib, Seaborn, Plotly-dash, Microsoft Excel, PowerQuery, PowerBI, QlikView, Scikit-learn, Tensorflow, Keras, Pytouch, MLops, CI/CD, OpenAI, Langchain, TelegramBot, RASA.
@@ -61,9 +60,6 @@ YouTube case study using Python, Pandas, Numpy, Plotly, NLTK, Matplotlib, Seabor
 - Scrutinized trending video tags to identify influential and emerging themes on the platform.
 - Delivered actionable insights that inform content strategies and enrich YouTube's dynamic ecosystem.
 
-
-- [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-- ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Book Recommendation
 - ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
@@ -114,7 +110,7 @@ Developed a versatile cross-platform support bot that seamlessly integrates acro
 - Provides instant resolution of common queries, offering round-the-clock support and improving user experience.
 - Delivers a cost-efficient solution that leverages data-driven insights and is easily integrated into existing systems for streamlined implementation.
 
-### Access Control Bot
+### Scan Verify Access (SVA) Bot
 - ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 The Access Control bot seamlessly integrated blockchain-based verification within Telegram interactions, creating a pioneering solution that harmoniously merges the robust security of decentralized ledger technology with the user-friendly interface of a widely adopted messaging platform.
 
@@ -127,17 +123,15 @@ The Access Control bot seamlessly integrated blockchain-based verification withi
 - Enhanced organization's reputation and trustworthiness.
 
 
-
 ## Talks & Lectures
-- Empowering Nigeria's Youth: Harnessing the Power of Blockchain and Artificial Intelligence for Employment - Seminar Digital Onboarders(NYSC), 2023
-- Recommender Systems - Office session Nexascale Data Science Community, 2023
-- Unleashing your tech potential: (A journey of Growth & Success) - Twitter Space, 2023
-- Data Analysis With Natural Language Processing - Bincom Dev center knowledge development session, 2022
-- Exploring Artificial Neural Networks -  Bincom Dev center External event, 2022
-- Data Visualization for improved Business Insights - Bincom Dev center knowledge development session, 2022
-- Data Privacy For Increased Customer Data Protection - Bincom Dev center External event, 2022
-- Best websites to learn code 2021 -  Medium Article, 2021
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- [Empowering Nigeria's Youth: Harnessing the Power of Blockchain and Artificial Intelligence for Employment](https://bit.ly/49nUmjd) - Seminar Digital Onboarders(NYSC), 2023
+- [Recommender Systems](https://bit.ly/47G1SV5)  - Office session Nexascale Data Science Community, 2023
+- [Unleashing your tech potential: (A journey of Growth & Success)](https://bit.ly/3SwDOj8)  - Twitter Space, 2023
+- [Data Analysis With Natural Language Processing](https://www.youtube.com/live/3F69bfELE2A?si=lkMgp4ydAJ-Ol5KX) - Bincom Dev center knowledge development session, 2022
+- [Exploring Artificial Neural Networks](https://youtu.be/QkxD_gfBQ4I?si=xD4e1l8zm6aCekA6) -  Bincom Dev center External event, 2022
+- [Data Visualization for improved Business Insights](https://youtu.be/1QhrgEHpx4M?si=k7CVSYb9GhrzT8i7)  - Bincom Dev center knowledge development session, 2022
+- [Data Privacy For Increased Customer Data Protection](https://youtu.be/IwOpbqRcIaQ?si=-ybADe_C1_ZoYb7Z) - Bincom Dev center External event, 2022
+- [Best websites to learn code 2021 ](https://muhammadyk.medium.com/best-websites-to-learn-code-2021-5c8a53a9dec1) -  Medium Article, 2021
 
 ## Certifications
 - Mobile Web Specialist - Google Developers
