@@ -52,7 +52,7 @@
 ## Projects
 ### Data Analysis (YouTube Case Study)
 <p align="left">
-  <img src="./Assets/img/2448063_337380-PA5H6W-914.jpg", width="70%">
+  <img src="./Assets/img/2448063_337380-PA5H6W-914.jpg", width="70%" height="50">
 </p>
 YouTube case study using Python, Pandas, Numpy, Plotly, NLTK, Matplotlib, Seaborn, and Wordcloud. The project involved advanced text data analysis techniques, sentiment analysis to gauge audience reactions, exploration of the relationship between dislikes and views, and scrutiny of trending video tags to identify influential themes. The project's findings informed content strategies and provided invaluable insights into the dynamic ecosystem of YouTube.
 
