@@ -51,7 +51,7 @@
 
 ## Projects
 ### Data Analysis (YouTube Case Study)
-- ![Youtube](./Assets/img/2448063_337380-PA5H6W-914.jpg)
+- <img src="./Assets/img/2448063_337380-PA5H6W-914.jpg" width="100" height="100">
 YouTube case study using Python, Pandas, Numpy, Plotly, NLTK, Matplotlib, Seaborn, and Wordcloud. The project involved advanced text data analysis techniques, sentiment analysis to gauge audience reactions, exploration of the relationship between dislikes and views, and scrutiny of trending video tags to identify influential themes. The project's findings informed content strategies and provided invaluable insights into the dynamic ecosystem of YouTube.
 
 - Conducted a comprehensive YouTube case study employing advanced data analysis techniques.
@@ -62,7 +62,8 @@ YouTube case study using Python, Pandas, Numpy, Plotly, NLTK, Matplotlib, Seabor
 
 
 ### Book Recommendation
-- ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- <img src="./Assets/img/book2.png" width="100" height="100">
+
 Developed a sophisticated content-based recommendation system for books using Python, Scikit-learn, Pandas, Numpy, and NLTK. This project significantly improved the user experience by delivering personalized book recommendations based on users' preferences and analyzing textual features, including authors, titles, and publishers. It employed vectorization techniques and cosine similarity measurements for efficient similarity calculations, aligning book suggestions with user interests.
 
 - Analyzed textual features (authors, titles, publishers) to provide personalized book recommendations.
@@ -71,7 +72,7 @@ Developed a sophisticated content-based recommendation system for books using Py
 
 
 ### Machine Learning Forecasting for Perrin Freres Champagne Sales
-- ![campagne](./Assets/img/front-view-champagne-bottle-glass.jpg)
+- <img src="./Assets/img/front-view-champagne-bottle-glass.jpg" width="100" height="100">
 Perrin Freres' champagne sales forecasts. By implementing sophisticated ARIMA (AutoRegressive Integrated Moving Average) and SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous variables) models, it significantly improved the accuracy of monthly sales predictions. The insights gained from this initiative provide valuable guidance for strategic decisions, enabling Perrin Freres to adapt marketing and inventory strategies more effectively and fostering continuous growth and improvement.
 
 - The project's improved forecasting models result in more accurate sales predictions, reducing uncertainty and enabling more precise decision-making.
@@ -80,7 +81,7 @@ Perrin Freres' champagne sales forecasts. By implementing sophisticated ARIMA (A
 - The project fosters continuous growth and improvement by aligning business strategies with reliable sales predictions, ultimately contributing to the company's long-term success.
 
 ### Time Series Stock Sales Forecasting
-- ![Stock market](./Assets/img/20289170_6256878.jpg)
+- <img src="./Assets/img/20289170_6256878.jpg" width="100" height="100">
 comprehensive analysis of stock price time series data. By conducting exploratory data analysis and applying advanced statistical techniques, it identified crucial stock price trends and seasonality patterns. The insights generated from this analysis serve as a foundation for developing effective investment strategies and making informed decisions in the financial market.
 
 - Enhanced Decision-Making: The insights derived from this project provide organizations and investors with valuable information for optimizing their investment strategies.
@@ -91,7 +92,7 @@ comprehensive analysis of stock price time series data. By conducting explorator
 - Identified stock price trends and seasonality patterns to provide insights for potential investment strategies.
 
 ### Fake News Classifier
-- ![Fake news](./Assets/img/newspaper-background-concept (1).jpg)
+- <img src="./Assets/img/newspaper-background-concept (1).jpg" width="100" height="100">
 Developed a machine learning system for the identification of fake news articles, leveraging advanced Natural Language Processing (NLP) techniques and text classification algorithms. This project significantly improved the credibility of information sources and provided a valuable tool for identifying potentially misleading news.
 
 - Implemented NLTK for thorough text cleansing and preparation, enhancing the reliability of news sources.
@@ -101,7 +102,7 @@ Developed a machine learning system for the identification of fake news articles
 - Employed a confusion matrix to measure classification performance, including accuracy, precision, recall, and F1 score, ensuring a high standard of reliability.
 
 ### Support AI (Conversational Chatbot)
-- ![support chatbot](./Assets/img/13317063_5208996.jpg)
+- <img src="./Assets/img/13317063_5208996.jpg" width="100" height="100">
 Developed a versatile cross-platform support bot that seamlessly integrates across websites, social media, and messaging apps. This innovative solution is empowered by natural language understanding (NLU) for human-like interactions and leverages the OpenAI API to deliver intelligent and personalized responses. It serves as a 24/7 support assistant, instantly resolving common queries while remaining cost-efficient, data-driven, and easy to integrate into existing systems.
 
 - Seamlessly integrates across websites, social media, and messaging apps, ensuring a consistent and unified support experience.
@@ -111,7 +112,7 @@ Developed a versatile cross-platform support bot that seamlessly integrates acro
 - Delivers a cost-efficient solution that leverages data-driven insights and is easily integrated into existing systems for streamlined implementation.
 
 ### Scan Verify Access (SVA) Bot
-- ![access control](./Assets/img/3d-render-robot-with-padlock.jpg)
+- <img src="./Assets/img/3d-render-robot-with-padlock.jpg" width="100" height="100">
 The Access Control bot seamlessly integrated blockchain-based verification within Telegram interactions, creating a pioneering solution that harmoniously merges the robust security of decentralized ledger technology with the user-friendly interface of a widely adopted messaging platform.
 
 - Developed a blockchain-powered Telegram bot for investor verification.
