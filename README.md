@@ -62,7 +62,7 @@ YouTube case study using Python, Pandas, Numpy, Plotly, NLTK, Matplotlib, Seabor
 
 
 ### Book Recommendation
-- <img src="./Assets/img/book2.png" width="100" height="100">
+- <img src="./Assets/img/book2.png" width="300" height="200">
 
 Developed a sophisticated content-based recommendation system for books using Python, Scikit-learn, Pandas, Numpy, and NLTK. This project significantly improved the user experience by delivering personalized book recommendations based on users' preferences and analyzing textual features, including authors, titles, and publishers. It employed vectorization techniques and cosine similarity measurements for efficient similarity calculations, aligning book suggestions with user interests.
 
