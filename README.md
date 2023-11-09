@@ -1,5 +1,3 @@
-**Python(Bot) | Machine Learning Engineer**
-
 ## Education
 **B.Tech, Mathematics & Statistics | Federal University of Technology, Minna, Niger (_Oct 2014 - Oct 2019_)**
   
